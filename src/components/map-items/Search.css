@@ -1,0 +1,32 @@
+.main-panel {
+  background: red; }
+
+.search-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em; }
+
+.search-box_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3em;
+  font-size: 1.5em; }
+
+.search-input {
+  width: 20em; }
+
+.search-box_check {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start; }
+
+.search-time-input {
+  width: 3.5em; }
+
+.search-button {
+  right: 0; }
+  .search-button i {
+    margin-right: 0.5em; }

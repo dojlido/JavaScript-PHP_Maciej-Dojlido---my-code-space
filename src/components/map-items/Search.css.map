@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,UAAW;EACT,UAAU,EAAE,MAAM",
+"sources": ["../App.scss"],
+"names": [],
+"file": "Search.css"
+}
